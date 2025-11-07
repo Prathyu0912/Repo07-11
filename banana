@@ -5,6 +5,13 @@ I am adding another line of data to banana
 --------------------dev 2-------------
 
 new code by dev1 without pulling
+<<<<<<< Updated upstream
 ----------------------------
 I am adding again another line by dev2
 --------------dev 2 again ------------------
+=======
+------------------------------
+
+Prathyusha is good girl
+-------------------
+>>>>>>> Stashed changes
